@@ -27,7 +27,11 @@ body {
     padding-top: 180px;
 
     @include media-breakpoint-down(lg){
-      padding-top: 230px;
+      padding-top: 250px;
+    }
+
+    @include media-breakpoint-down(sm){
+      padding-top: 260px;
     }
   }
 }
@@ -50,11 +54,7 @@ body {
   &[data-sidebar-position="fixed"] {
     .left-sidebar {
       position: fixed;
-      top: 65px;
-
-      @include media-breakpoint-down(lg){
-        top: 131px;
-      }
+      top: 72px;
     }
   }
 
