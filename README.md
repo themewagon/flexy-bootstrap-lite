@@ -1,7 +1,11 @@
 # Flexy – Free Bootstrap 5 Admin Dashboard Template
 
+
+#### Preview
+
 - [Demo](https://themewagon.github.io/flexy-bootstrap-lite/)
 
+#### Download
 - [Download from ThemeWagon](https://themewagon.com/themes/flexy/)
 
 ## Getting Started
