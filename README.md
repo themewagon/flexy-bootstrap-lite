@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-1. Clone from GitHub
+Clone from GitHub
 
 ```
 https://github.com/themewagon/flexy-bootstrap-lite.git
